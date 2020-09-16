@@ -20,17 +20,16 @@ body{
     width:30%;
 }
 
+.navigation{
+    margin-left: auto;
+}
+
 .navbar a{
     font-family: 'Raleway', sans-serif;
     text-decoration:none;
     color:hsl(243, 87%, 12%);
     font-size:.8em;
     margin-right:20px;
-}
-
-.navigation{
-    margin-left: auto;
-    margin-right:0;
 }
 
 .section1{
@@ -57,7 +56,7 @@ body{
 }
 
 h1{
-    font-size:1.5em;
+    font-size:1em;
     font-weight:700;
     font-family: 'Raleway', sans-serif;
 }
